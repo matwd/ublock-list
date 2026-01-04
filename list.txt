@@ -1,0 +1,13 @@
+www.filmweb.pl##.OpinionsSection
+www.filmweb.pl##.FilmCriticsVotesSection.filmCriticsVotesSection
+www.filmweb.pl##.UserReviewSection.userReviewSection
+www.filmweb.pl##.MainNewsSection
+www.filmweb.pl##.HomeNewsSection
+www.filmweb.pl##.homePage.HomePage.page
+
+www.youtube.com##ytd-watch-next-secondary-results-renderer
+www.youtube.com###movie_player .ytp-fullscreen-grid
+
+www.youtube.com##ytd-item-section-renderer.ytd-watch-next-secondary-results-renderer.style-scope
+www.youtube.com##ytd-item-section-renderer.ytd-watch-next-secondary-results-renderer.style-scope
+www.youtube.com###primary>ytd-rich-grid-renderer
