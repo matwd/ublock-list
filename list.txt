@@ -30,10 +30,24 @@ old.reddit.com###bottom-comments
 !reddit.com
 www.reddit.com##shreddit-feed
 
-! Jun 17, 2026 https://old.reddit.com
+# reddit
+old.reddit.com##.link:has-text(/r\/Polska/)
+old.reddit.com##.link:has-text(/republican/)
+old.reddit.com##.link:has-text(/democrat/)
 old.reddit.com##.link:has-text(/Trump/)
+old.reddit.com##.link:has-text(/r\/countwithchickenlady/)
 old.reddit.com##.link:has-text(/r\/comics/)
 old.reddit.com##.link:has-text(/r\/TopCharacterTropes/)
-old.reddit.com##.link:has-text(/r\/summerhousebravo/)
-old.reddit.com##.link:has-text(/r\/nba/)
 old.reddit.com##.link:has-text(/r\/LoveIslandUSA/)
+old.reddit.com##.link:has-text(/r\/summerhousebravo/)
+old.reddit.com##.link:has-text(/r\/bravo/)
+old.reddit.com##.link:has-text(/r\/nba/)
+old.reddit.com##.link:has-text(/r\/MurderedByWords/)
+old.reddit.com##.link:has-text(/r\/WhitePeopleTwitter/)
+old.reddit.com##.link:has-text(/r\/BlackPeopleTwitter/)
+old.reddit.com##.link:has-text(/r\/stupidpeoplefacebook/)
+
+superuser.com###hot-network-questions
+superuser.com##stack-heartbeat-liveliness
+superuser.com###sidebar > div:nth-child(-n + 8)
+
