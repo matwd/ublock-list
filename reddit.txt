@@ -5,6 +5,7 @@ old.reddit.com##.link:has-text(/r\/okbuddycinephile/)
 old.reddit.com##.link:has-text(/r\/lovethissmug/)
 old.reddit.com##.link:has-text(/r\/hatethissmug/)
 old.reddit.com##.link:has-text(/r\/PeterExplainsTheJoke/)
+old.reddit.com##.link:has-text(/r\/TopCharacterTropes/)
 
 ! politics
 old.reddit.com##.link:has-text(/Trump/)
@@ -14,6 +15,7 @@ old.reddit.com##.link:has-text(/queer/i)
 old.reddit.com##.link:has-text(/bisexual/i)
 old.reddit.com##.link:has-text(/\bgay\b/i)
 old.reddit.com##.link:has-text(/lesbian/i)
+old.reddit.com##.link:has-text(/republican/i)
 old.reddit.com##.link:has-text(/democrat/i)
 old.reddit.com##.link:has-text(/r\/SipsTea/)
 old.reddit.com##.link:has-text(/Konfa/)
@@ -25,6 +27,7 @@ old.reddit.com##.link:has-text(/military/)
 old.reddit.com##.link:has-text(/Far-right/i)
 old.reddit.com##.link:has-text(/Konfederacja/i)
 old.reddit.com##.link:has-text(/anti ?-?vaxxer /i)
+old.reddit.com##.link:has-text(/r\/Polska/)
 
 ! video games
 old.reddit.com##.link:has-text(/r\/\w+game/i)
@@ -86,6 +89,7 @@ old.reddit.com##.link:has-text(/r\/formula1/)
 old.reddit.com##.link:has-text(/r\/tennis/)
 old.reddit.com##.link:has-text(/r\/formuladank/)
 old.reddit.com##.link:has-text(/r\/formula1/)
+old.reddit.com##.link:has-text(/r\/nba/)
 
 ! reposts
 old.reddit.com##.link:has-text(/r\/TikTokCringe/)
@@ -93,6 +97,8 @@ old.reddit.com##.link:has-text(/tiktoker/i)
 old.reddit.com##.link:has-text(/r\/LivestreamFail/)
 old.reddit.com##.link:has-text(/r\/justgalsbeingchicks/)
 old.reddit.com##.link:has-text(/r\/meirl/)
+old.reddit.com##.link:has-text(/r\/WhitePeopleTwitter/)
+old.reddit.com##.link:has-text(/r\/BlackPeopleTwitter/)
 
 ! tv shows and celebrity poop
 old.reddit.com##.link:has-text(/r\/movies/)
@@ -106,6 +112,8 @@ old.reddit.com##.link:has-text(/r\/HouseOfTheDragon/)
 old.reddit.com##.link:has-text(/r\/asoiaf/)
 old.reddit.com##.link:has-text(/r\/freefolk/)
 old.reddit.com##.link:has-text(/anime/i)
+old.reddit.com##.link:has-text(/r\/LoveIslandUSA/)
+old.reddit.com##.link:has-text(/r\/summerhousebravo/)
 
 ! SNCA
 old.reddit.com##.link:has-text(/r\/GirlDinnerDiaries/)
@@ -117,6 +125,7 @@ old.reddit.com##.link:has-text(/r\/Millennials/)
 old.reddit.com##.link:has-text(/r\/AmItheAsshole/)
 old.reddit.com##.link:has-text(/r\/MoralityScaling/)
 old.reddit.com##.link:has-text(/r\/ReZero/)
+old.reddit.com##.link:has-text(/r\/comics/)
 
 
 ! other
@@ -133,3 +142,7 @@ old.reddit.com##.link:has-text(/r\/antimeme/)
 old.reddit.com##.link:has-text(/r\/HistoryMemes/)
 old.reddit.com##.link:has-text(/r\/countttt/)
 old.reddit.com##.link:has-text(/r\/marvel/i)
+old.reddit.com##.link:has-text(/r\/countwithchickenlady/)
+old.reddit.com##.link:has-text(/r\/MurderedByWords/)
+old.reddit.com##.link:has-text(/r\/clevercomebacks/)
+old.reddit.com##.link:has-text(/r\/stupidpeoplefacebook/)
